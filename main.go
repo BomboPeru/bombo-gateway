@@ -1,4 +1,4 @@
-package bombo_gateway
+package main
 
 import (
 	"github.com/kataras/iris"
